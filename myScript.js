@@ -7,4 +7,3 @@ function bulbOff()
 {
 document.getElemetById('myImage').src=pic_bulboff.gif
 }
-
